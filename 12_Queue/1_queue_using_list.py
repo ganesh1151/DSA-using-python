@@ -1,0 +1,15 @@
+q=[]
+q.append(10)
+q.append(20)
+q.append(30)
+
+print(q)
+print(q.pop())
+print(q)
+q.append(40)
+print(q)
+print(q.pop(0))
+print(q)
+print(len(q))
+print(q[0])
+print(q[-1])
